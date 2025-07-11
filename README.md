@@ -64,8 +64,7 @@ Data is sourced directly from *DGCA (Directorate General of Civil Aviation), Ind
 
 ## 📸 Preview
 
-![Dashboard Screenshot](dashboard_preview.png)  
-Add your dashboard screenshot in the repo and link it here
+<img width="911" height="512" alt="Image" src="https://github.com/user-attachments/assets/1c09d4dc-8292-44df-8dcc-a983591d7811" />
 
 ---
 
@@ -73,7 +72,6 @@ Add your dashboard screenshot in the repo and link it here
 
 👤 *Lehar Arora*  
 💼 Audit Analyst, aspiring Business Analyst  
-📫 [LinkedIn](#) (optional link)
 
 ---
 
