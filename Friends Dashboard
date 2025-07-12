@@ -1,64 +1,63 @@
-# 📊 Friends TV Show Tableau Dashboard
+# 🎬 Friends TV Show Dashboard (Tableau)
 
-A Tableau visualization project based on the popular sitcom **Friends**, created as part of a guided project from the [Datascience Roadmap YouTube channel](https://www.youtube.com/@datascienceroadmap). The dashboard explores episode-level insights, character dialogues, and screen time patterns across seasons.
+A fun and interactive **Tableau dashboard** analyzing the famous sitcom **FRIENDS** – built as part of a guided project from the [DataScience Roadmap YouTube channel](https://www.youtube.com/@datascienceroadmap). The dashboard provides episode-wise insights based on IMDb data including ratings, votes, and more.
 
-![Dashboard Preview](friends_dashboard.png)
-
----
-
-## 📁 Project Overview
-
-This dashboard provides an interactive exploration of:
-- 🗣️ Total number of stars (IMDb rating) per episode
-- 🎬 Episode-wise trends across 10 seasons
-- 📊 Total votes distribution per episode
-- 🎞️ Key metadata like directors, duration, and release year
-
-Built using Tableau Public, this pop-culture-themed dashboard shows how data storytelling can be both insightful and fun.
+![Friends Dashboard Preview](friends_dashboard.png)
 
 ---
 
-## 📌 Key Features
+## 📌 Project Summary
 
-- 🎨 Themed dashboard with Friends-style visuals  
-- 📈 Boxplots showing IMDb ratings distribution by season  
-- 🔢 Stacked bar charts for vote counts across episodes  
-- 🎬 Episode filter with image and metadata display  
-- 🔄 Season & episode selectors for dynamic interactivity  
+This project is a pop-culture-themed visualization focused on:
+- ⭐ **IMDb Ratings** per episode and season  
+- 🗳️ **Total Votes** by viewers  
+- 🎥 **Directors**, year of release, and duration  
+- 🎯 Episode-level filters for deeper exploration
 
----
-
-## 📂 Files Included
-
-- https://public.tableau.com/app/profile/ankita.goyal8803/viz/FriendsDashboard_17521477687020/Dashboard1?publish=yes` – Tableau Workbook file  
- – Dashboard preview image  
-
+Built using **Tableau Public**, the dashboard combines clean design with interactive charts and storytelling visuals.
 
 ---
 
-## 🚀 Getting Started
-
-To explore or modify the dashboard:
-1. Download the `.twbx` file
-2. Open it using **Tableau Public** or **Tableau Desktop**
-3. Interact, analyze, or enhance it further
+## 🧰 Tools & Technologies
+- Tableau Public (v2024+)
+- CSV dataset (IMDb ratings, scraped or provided)
+- Data cleaning via Tableau’s inbuilt data modeler
 
 ---
 
-## 🔗 Live Dashboard  
+## 📊 Dashboard Features
 
-👉 [View it on Tableau Public](https://public.tableau.com/app/profile/ankita.goyal8803/viz/FriendsDashboard_17521477687020/Dashboard1)
-
----
-
-## 🎓 Credits
-
-- 🎥 Guided by [DataScience Roadmap YouTube Channel](https://www.youtube.com/@datascienceroadmap)  
-- 📁 Dataset adapted from publicly available IMDb and Friends fan data  
-- 🛠️ Dashboard built and published by Ankita Goyal
+- 🎨 FRIENDS-style theme with series poster
+- 📦 Boxplot of total stars (ratings) across all 10 seasons
+- 📊 Stacked bar chart for total votes by season and episode
+- 📅 Interactive dropdown for selecting season and episode
+- 🧑‍💼 Episode-wise director and release info panel
 
 ---
 
-## 📬 Contact
+## 📁 Repository Contents
 
-For feedback or collaboration, feel free to reach out via GitHub or LinkedIn.
+| File | Description |
+|------|-------------|
+| `Friends_Dashboard.twbx` | Tableau workbook file |
+| `friends_dashboard.png` | Dashboard image preview |
+| `README.md` | Project documentation (this file) |
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository  
+2. Open `Friends_Dashboard.twbx` in **Tableau Public** or **Tableau Desktop**
+3. Explore the filters, visualizations, and customize further if needed
+
+---
+
+## 🌐 Live Dashboard
+
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/ankita.goyal8803/viz/FriendsDashboard_17521477687020/Dashboard1)
+
+---
+
+## 🙌 Acknowledge
+
